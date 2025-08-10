@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "RP-Pico Libraries")(type "KiCad")(uri "/home/oaky/Documents/RP-Pico Libraries")(options "")(descr ""))
+)

@@ -1,3 +1,6 @@
 [submodule "pico"]
 	path = pico
 	url = https://github.com/raspberrypi/picotool
+[submodule "external/vga"]
+	path = external/vga
+	url = https://github.com/hakierspejs/pico-vga-driver
