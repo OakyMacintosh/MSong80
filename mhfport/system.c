@@ -1,5 +1,5 @@
 // MHF-DOS - A Basic Operating System for the MHF CPU
-// Written in MighfC to demonstrate the system capabilities
+// Written in Mighf C to demonstrate the system capabilities
 
 // System memory layout:
 // 0x0000-0x0FFF: Kernel space

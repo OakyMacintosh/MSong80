@@ -1,3 +1,6 @@
 [submodule "pico"]
 	path = pico
 	url = https://github.com/raspberrypi/picotool
+[submodule "external/python_lcd"]
+	path = external/python_lcd
+	url = https://github.com/dhylands/python_lcd.git
