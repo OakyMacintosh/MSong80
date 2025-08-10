@@ -1,0 +1,14 @@
+{
+    ShelfContents = {
+	(
+	    <*I0>,
+	    <*I0>
+	) = (
+	    "/home/oaky/projects/MSong80/hardware"
+	);
+    };
+    ShelfSize = <*I76>;
+    ViewerPath = "/";
+    ViewerType = Browser;
+    ViewerWindow = "{x = 679; y = 329; width = 622; height = 422}";
+}
